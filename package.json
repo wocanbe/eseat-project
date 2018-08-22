@@ -4,6 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "author": "liuying",
+  "scripts": {
+    "dev": "eseat dev",
+    "build": "not support now",
+    "test": "not support now"
+  },
   "dependencies": {
     "vue": "^2.5.17",
     "vue-router": "^3.0.1",
@@ -19,7 +24,6 @@
     "koa-logger": "^3.2.0",
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
-    "koa-vue-view": "^2.1.6",
     "mockjs": "^1.0.1-beta3",
     "postcss": "^7.0.2"
   }
